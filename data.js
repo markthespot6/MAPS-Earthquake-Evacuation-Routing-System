@@ -55,7 +55,7 @@ const ROADS = [
     { from: "canteen", to: "gym", distance: 130, hazard: 1 },
     { from: "gym", to: "center", distance: 155, hazard: 1 },
     { from: "canteen", to: "center", distance: 220, hazard: 4 },
-    { from: "gate", to: "center", distance: 285, hazard: 2 }
+    { from: "gate", to: "Malaria Court", distance: 285, hazard: 2 }
 ];
 
 const HAZARD_PENALTY = 80;
