@@ -11,25 +11,25 @@ const SCHOOL = {
 const LANDMARKS = [
     {
         id: "library",
-        name: " - School Library",
+        name: "School Library",
         lat: 14.77005,
         lng: 121.07655
     },
     {
         id: "gate",
-        name: "DEMO - Main Gate",
+        name: "Main Gate",
         lat: 14.76972,
         lng: 121.07720
     },
     {
         id: "canteen",
-        name: "DEMO - School Canteen",
+        name: "School Canteen",
         lat: 14.76905,
         lng: 121.07635
     },
     {
         id: "gym",
-        name: "DEMO - School court",
+        name: "School court",
         lat: 14.76882,
         lng: 121.07705
     }
@@ -39,7 +39,7 @@ const LANDMARKS = [
 const CENTERS = [
     {
         id: "center",
-        name: "DEMO - Evacuation Center",
+        name: "Evacuation Center",
         lat: 14.76835,
         lng: 121.07755
     }
