@@ -29,7 +29,7 @@ const LANDMARKS = [
     },
     {
         id: "gym",
-        name: "DEMO - School Gymnasium",
+        name: "DEMO - School court",
         lat: 14.76882,
         lng: 121.07705
     }
