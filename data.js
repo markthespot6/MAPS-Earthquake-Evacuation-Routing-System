@@ -22,10 +22,10 @@ const LANDMARKS = [
         lng: 121.07720
     },
     {
-        id: "canteen",
-        name: "School Canteen",
-        lat: 14.76905,
-        lng: 121.07635
+        id: "MLQES",
+        name: "Manuel L. Quezon Elementary School",
+        lat: 14.76936,
+        lng: 1201.078955
     },
     {
         id: "Purok Dos Court",
