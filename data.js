@@ -38,10 +38,10 @@ const LANDMARKS = [
 // Replace with an officially designated center.
 const CENTERS = [
     {
-        id: "center",
+        id: "Malaria Court",
         name: "Evacuation Center",
-        lat: 14.76835,
-        lng: 121.07755
+        lat: 14.769665,
+        lng: 1201.079341
     }
 ];
 
