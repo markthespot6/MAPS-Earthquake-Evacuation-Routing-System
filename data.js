@@ -25,13 +25,13 @@ const LANDMARKS = [
         id: "MLQES",
         name: "Manuel L. Quezon Elementary School",
         lat: 14.76936,
-        lng: 1201.078955
+        lng: 121.078955
     },
     {
         id: "Purok Dos Court",
         name: "Covered Court",
         lat: 14.766652,
-        lng: 1201.076939
+        lng: 121.076939
     }
 ];
 
@@ -41,7 +41,7 @@ const CENTERS = [
         id: "Malaria Court",
         name: "Evacuation Center",
         lat: 14.769665,
-        lng: 1201.079341
+        lng: 121.079341
     }
 ];
 
