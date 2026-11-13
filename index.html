@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QuakeRoute | Evacuation System</title>
+
+    <link rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="navbar">
+    <div class="logo">QuakeRoute</div>
+    <span>Earthquake Evacuation System</span>
+</header>
+
+<main class="container">
+
+    <section class="hero">
+        <h1>Find Your Evacuation Route</h1>
+        <p>Select the nearest landmark to find a calculated route
+        to your designated evacuation center.</p>
+    </section>
+
+    <section class="dashboard">
+
+        <div class="controls">
+            <h2>Route Planner</h2>
+
+            <label for="landmark">Select Nearest Landmark</label>
+            <select id="landmark">
+                <option value="">Choose a landmark</option>
+            </select>
+
+            <label for="center">Evacuation Center</label>
+            <select id="center"></select>
+
+            <label class="toggle">
+                <input type="checkbox" id="hazardMode" checked>
+                Enable Hazard-Aware Routing
+            </label>
+
+            <button id="findRoute" disabled>
+                Find Evacuation Route
+            </button>
+
+            <button id="resetRoute" class="reset">
+                Reset
+            </button>
+
+            <div id="result" class="result">
+                Select your nearest landmark.
+            </div>
+
+            <div id="routeInfo" hidden>
+                <h3>Route Information</h3>
+                <p id="distance"></p>
+                <p id="routePath"></p>
+            </div>
+        </div>
+
+        <div class="map-container">
+            <div id="map"></div>
+        </div>
+
+    </section>
+
+</main>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="data.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
