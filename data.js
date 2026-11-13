@@ -51,9 +51,9 @@ const CENTERS = [
 const ROADS = [
     { from: "library", to: "gate", distance: 105, hazard: 1 },
     { from: "library", to: "canteen", distance: 125, hazard: 2 },
-    { from: "gate", to: "gym", distance: 115, hazard: 1 },
-    { from: "canteen", to: "gym", distance: 130, hazard: 1 },
-    { from: "gym", to: "Malaria Court", distance: 155, hazard: 1 },
+    { from: "gate", to: "Purok Dos Court", distance: 115, hazard: 1 },
+    { from: "canteen", to: "Purok Dos Court", distance: 130, hazard: 1 },
+    { from: "Purok Dos Court", to: "Malaria Court", distance: 155, hazard: 1 },
     { from: "MLQES", to: "Malaria Court", distance: 220, hazard: 4 },
     { from: "gate", to: "Malaria Court", distance: 285, hazard: 2 }
 ];
