@@ -2,7 +2,7 @@
 const SCHOOL = {
     lat: 14.769397,
     lng: 121.076768,
-    name: "School Reference Point"
+    name: "Manuel L. Quezon High School"
 };
 
 // DEMO COORDINATES ONLY.
