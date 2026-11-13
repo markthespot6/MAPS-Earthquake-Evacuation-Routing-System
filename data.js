@@ -53,8 +53,8 @@ const ROADS = [
     { from: "library", to: "canteen", distance: 125, hazard: 2 },
     { from: "gate", to: "gym", distance: 115, hazard: 1 },
     { from: "canteen", to: "gym", distance: 130, hazard: 1 },
-    { from: "gym", to: "center", distance: 155, hazard: 1 },
-    { from: "canteen", to: "center", distance: 220, hazard: 4 },
+    { from: "gym", to: "Malaria Court", distance: 155, hazard: 1 },
+    { from: "MLQES", to: "Malaria Court", distance: 220, hazard: 4 },
     { from: "gate", to: "Malaria Court", distance: 285, hazard: 2 }
 ];
 
