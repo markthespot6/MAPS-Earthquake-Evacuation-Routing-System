@@ -29,7 +29,7 @@ const LANDMARKS = [
     },
     {
         id: "Purok Dos Court",
-        name: "School court",
+        name: "Covered Court",
         lat: 14.766652,
         lng: 1201.076939
     }
