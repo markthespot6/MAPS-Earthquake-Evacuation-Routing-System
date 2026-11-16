@@ -1,7 +1,7 @@
 const SCHOOL = {
     lat: 14.769397,
     lng: 121.076768,
-    name: "MLQHS"
+    name: "School Reference Point"
 };
 
 // DEMO COORDINATES ONLY.
@@ -41,7 +41,6 @@ const CENTERS = [
         name: "DEMO - Evacuation Center",
         lat: 14.76835,
         lng: 121.07755
-    }
     }
 ];
 
