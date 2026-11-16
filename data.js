@@ -43,12 +43,6 @@ const CENTERS = [
         lat: 14.769665,
         lng: 121.079341
     }
-    {
-        id: "Purok Dos Court",
-        name: "Covered Court",
-        lat: 14.766652,
-        lng: 121.076939
-    }
 ];
 
 // Sample road network.
