@@ -1,3 +1,4 @@
+
 const SCHOOL = {
     lat: 14.769397,
     lng: 121.076768,
