@@ -42,12 +42,6 @@ const CENTERS = [
         lat: 14.76835,
         lng: 121.07755
     }
-      {
-        id: "center1",
-        name: "DEMO - purok dos",
-        lat: 14.766693,
-        lng: 121.076832
-    }
     }
 ];
 
