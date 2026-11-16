@@ -32,12 +32,6 @@ const LANDMARKS = [
         lat: 14.76882,
         lng: 121.07705
     }
-    {
-        id: "gy",
-        name: "DEMO - JNJAN",
-        lat: 14.76821,
-        lng: 121.07745
-    }
 ];
 
 // Replace with an officially designated center.
