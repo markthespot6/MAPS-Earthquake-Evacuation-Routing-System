@@ -1,7 +1,7 @@
 const SCHOOL = {
     lat: 14.769397,
     lng: 121.076768,
-    name: "MLQHS"
+    name: "MLQHS   S"
 };
 
 // DEMO COORDINATES ONLY.
@@ -16,19 +16,19 @@ const LANDMARKS = [
     },
     {
         id: "gate",
-        name: "DEMO - Main Gate",
+        name: "DEMO - RED",
         lat: 14.76972,
         lng: 121.07720
     },
     {
         id: "canteen",
-        name: "DEMO - School Canteen",
+        name: "DEMO - DASTAN",
         lat: 14.76905,
         lng: 121.07635
     },
     {
         id: "gym",
-        name: "DEMO - School Gymnasium",
+        name: "DEMO - JANJAN",
         lat: 14.76882,
         lng: 121.07705
     }
