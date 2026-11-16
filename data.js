@@ -42,6 +42,13 @@ const CENTERS = [
         lat: 14.76835,
         lng: 121.07755
     }
+      {
+        id: "center",
+        name: "DEMO - Evacuation Center",
+        lat: 14.766693,
+        lng: 121.076832
+    }
+    }
 ];
 
 // Sample road network.
