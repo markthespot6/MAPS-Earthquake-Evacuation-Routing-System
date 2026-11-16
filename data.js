@@ -43,8 +43,8 @@ const CENTERS = [
         lng: 121.07755
     }
       {
-        id: "center",
-        name: "DEMO - Evacuation Center",
+        id: "center1",
+        name: "DEMO - purok dos",
         lat: 14.766693,
         lng: 121.076832
     }
