@@ -30,6 +30,12 @@ const LANDMARKS = [
         lat: 14.76882,
         lng: 121.07705
     }
+    {
+        id: "gy1m",
+        name: "123245",
+        lat: 14.76882,
+        lng: 121.07370
+    }
 ];
 
 const CENTERS = [
