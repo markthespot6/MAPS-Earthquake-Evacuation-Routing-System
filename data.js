@@ -43,12 +43,6 @@ const CENTERS = [
         lat: 14.76968,
         lng: 121.07934
     }
-    {
-        id: "prkdos",
-        name: "PUROK DOS COURT",
-        lat: 14.766692,
-        lng: 121.0769
-    }
 ];
 
 // Sample road network.
