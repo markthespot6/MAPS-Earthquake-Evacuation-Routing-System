@@ -12,8 +12,8 @@ const LANDMARKS = [
     {
         id: "library",
         name: "12",
-        lat: 14.77005,
-        lng: 121.07655
+        lat: 14.766733,
+        lng: 121.076872
     },
     {
         id: "gate",
