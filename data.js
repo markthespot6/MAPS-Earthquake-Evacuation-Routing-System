@@ -1,4 +1,3 @@
-
 const SCHOOL = {
     lat: 14.769397,
     lng: 121.076768,
@@ -15,11 +14,6 @@ const LANDMARKS = [
         lat: 14.77005,
         lng: 121.07655
     },
-     {
-        id: "library1",
-        name: "DEMO - School Library",
-        lat: 14.77015,
-        lng: 121.07635
     {
         id: "gate",
         name: "DEMO - Main Gate",
