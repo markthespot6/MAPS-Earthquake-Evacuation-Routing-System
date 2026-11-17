@@ -44,9 +44,9 @@ const LANDMARKS = [
     },
     {
         id: "landmark5",
-        name: "Landmark 5 - Verify Location",
-        lat: 14.768820,
-        lng: 121.073700,
+        name: "Alfamart Ascoville",
+        lat: 14.769902,
+        lng: 121.076447,
         verified: false
     },
     {
