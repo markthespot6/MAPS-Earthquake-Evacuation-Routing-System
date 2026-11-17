@@ -40,8 +40,8 @@ const CENTERS = [
     {
         id: "center",
         name: "DEMO - Evacuation Center",
-        lat: 14.76835,
-        lng: 121.07755
+        lat: 14.76968,
+        lng: 121.07934
     }
 ];
 
