@@ -16,16 +16,16 @@ const SCHOOL = {
 const LANDMARKS = [
     {
         id: "purokdos",
-        name: "Purok Dos Court",
-        lat: 14.766733,
-        lng: 121.076872,
+        name: "Malaria Road",
+        lat: 14.76960,
+        lng: 121.08010,
         verified: false
     },
     {
         id: "gate",
-        name: "Landmark 2 - Verify Location",
-        lat: 14.769720,
-        lng: 121.077200,
+        name: "Camia Street",
+        lat: 14.76887,
+        lng: 121.042,
         verified: false
     },
     {
