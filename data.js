@@ -17,15 +17,15 @@ const LANDMARKS = [
     {
         id: "purokdos",
         name: "Malaria Road",
-        lat: 14.76960,
-        lng: 121.08010,
+        lat: 14.770408,
+        lng: 121.077255,
         verified: false
     },
     {
         id: "gate",
         name: "Camia Street",
-        lat: 14.76887,
-        lng: 121.042,
+        lat: 14.769902,
+        lng: 121.076447,
         verified: false
     },
     {
@@ -37,9 +37,9 @@ const LANDMARKS = [
     },
     {
         id: "gym",
-        name: "Landmark 4 - Verify Location",
-        lat: 14.768820,
-        lng: 121.077050,
+        name: "MLQHS ROAD",
+        lat: 14.768839,
+        lng: 121.077179,
         verified: false
     },
     {
