@@ -193,6 +193,12 @@ const ROADS = [
         distance: 285,
         hazard: 2
     }
+    {
+        from: "library",
+        to: "center2",
+        distance: 286,
+        hazard: 2
+    }
 ];
 
 // Hazard penalty for Dijkstra
