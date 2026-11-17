@@ -41,9 +41,6 @@ const CENTERS = [
     }
 ];
 
-// Sample road network.
-// Hazard scores are illustrative, not actual risk assessments.
-
 const ROADS = [
     { from: "library", to: "gate", distance: 105, hazard: 1 },
     { from: "library", to: "canteen", distance: 125, hazard: 2 },
