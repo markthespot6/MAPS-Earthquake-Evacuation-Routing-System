@@ -5,9 +5,6 @@ const SCHOOL = {
     name: "MLQHS"
 };
 
-// DEMO COORDINATES ONLY.
-// Replace with actual surveyed landmark coordinates.
-
 const LANDMARKS = [
     {
         id: "library",
@@ -35,7 +32,6 @@ const LANDMARKS = [
     }
 ];
 
-// Replace with an officially designated center.
 const CENTERS = [
     {
         id: "center",
