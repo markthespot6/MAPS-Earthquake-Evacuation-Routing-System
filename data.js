@@ -15,7 +15,7 @@ const SCHOOL = {
 
 const LANDMARKS = [
     {
-        id: "library",
+        id: "purokdos",
         name: "Purok Dos Court",
         lat: 14.766733,
         lng: 121.076872,
@@ -152,13 +152,13 @@ const CENTERS = [
 
 const ROADS = [
     {
-        from: "library",
+        from: "purokdos",
         to: "gate",
         distance: 105,
         hazard: 1
     },
     {
-        from: "library",
+        from: "purokdos",
         to: "canteen",
         distance: 125,
         hazard: 2
