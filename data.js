@@ -39,7 +39,7 @@ const LANDMARKS = [
 const CENTERS = [
     {
         id: "center",
-        name: "DEMO - Evacuation Center",
+        name: "MALARIA COURT",
         lat: 14.76968,
         lng: 121.07934
     }
