@@ -33,12 +33,6 @@ const LANDMARKS = [
         lat: 14.76882,
         lng: 121.07705
     }
-    {
-        id: "gym1",
-        name: "Malaria Court",
-        lat: 14.769695,
-        lng: 121.079345
-    }
 ];
 
 // Replace with an officially designated center.
