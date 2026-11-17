@@ -110,9 +110,9 @@ const CENTERS = [
     },
     {
         id: "center3",
-        name: "Evacuation Center 3",
-        lat: null,
-        lng: null,
+        name: "Ascoville Covered Court",
+        lat: 14.771492,
+        lng: 121.076892,
         verified: false
     },
     {
