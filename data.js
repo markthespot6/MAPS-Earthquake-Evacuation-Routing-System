@@ -104,8 +104,8 @@ const CENTERS = [
     {
         id: "center2",
         name: "Evacuation Center 2",
-        lat: null,
-        lng: null,
+        lat: 14.766687,
+        lng: 121.0769,
         verified: false
     },
     {
