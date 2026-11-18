@@ -15,7 +15,7 @@ const SCHOOL = {
 
 const LANDMARKS = [
     {
-        id: "purokdos",
+        id: "mlr road",
         name: "Malaria Road",
         lat: 14.770408,
         lng: 121.077255,
@@ -152,13 +152,13 @@ const CENTERS = [
 
 const ROADS = [
     {
-        from: "purokdos",
-        to: "gate",
+        from: "mlr road",
+        to: "center",
         distance: 105,
         hazard: 1
     },
     {
-        from: "purokdos",
+        from: "mlr road",
         to: "canteen",
         distance: 125,
         hazard: 2
