@@ -159,7 +159,7 @@ const ROADS = [
     },
     {
         from: "mlr road",
-        to: "null",
+        to: "center3",
         distance: 125,
         hazard: 2
     },
