@@ -165,7 +165,7 @@ const ROADS = [
     },
     {
         from: "gate",
-        to: "null",
+        to: "0",
         distance: 115,
         hazard: 1
     },
@@ -193,12 +193,7 @@ const ROADS = [
         distance: 285,
         hazard: 2
     }
-    {
-        from: "landmark6",
-        to: "center",
-        distance: 285,
-        hazard: 2
-    }
+
 ];
 
 // Hazard penalty for Dijkstra
