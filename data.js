@@ -165,7 +165,7 @@ const ROADS = [
     },
     {
         from: "gate",
-        to: "gym",
+        to: "null",
         distance: 115,
         hazard: 1
     },
