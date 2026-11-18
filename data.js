@@ -106,7 +106,7 @@ const CENTERS = [
         name: "PUROK DOS COURT",
         lat: 14.766687,
         lng: 121.0769,
-        verified: false
+        verified: true
     },
     {
         id: "center3",
