@@ -51,9 +51,9 @@ const LANDMARKS = [
     },
     {
         id: "landmark6",
-        name: "Landmark 6 - Add Coordinates",
-        lat: null,
-        lng: null,
+        name: "EMILY HOUSE",
+        lat: 14.774067484598685,
+        lng: 121.07723287982336,
         verified: false
     },
     {
