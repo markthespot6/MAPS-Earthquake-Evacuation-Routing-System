@@ -170,7 +170,7 @@ const ROADS = [
         hazard: 1
     },
     {
-        from: "canteen",
+        from: "cantaeen",
         to: "gym",
         distance: 130,
         hazard: 1
