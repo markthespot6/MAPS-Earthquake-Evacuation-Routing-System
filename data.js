@@ -51,7 +51,7 @@ const LANDMARKS = [
     },
     {
         id: "landmark6",
-        name: "EMILY HOUSE",
+        name: "7/11 QUIRINO HIGHWAY",
         lat: 14.774067484598685,
         lng: 121.07723287982336,
         verified: false
