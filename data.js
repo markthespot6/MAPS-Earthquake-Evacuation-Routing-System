@@ -103,7 +103,7 @@ const CENTERS = [
     },
     {
         id: "center2",
-        name: "Evacuation Center 2",
+        name: "PUROK DOS COURT",
         lat: 14.766687,
         lng: 121.0769,
         verified: false
