@@ -184,7 +184,7 @@ const ROADS = [
     {
         from: "canteen",
         to: "center",
-        distance: 220,
+        distance: 2201,
         hazard: 4
     },
     {
