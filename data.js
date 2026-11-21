@@ -65,7 +65,7 @@ const LANDMARKS = [
     },
     {
         id: "landmark8",
-        name: " PROSTAL MEDICAL CLINIC",
+        name: "PROSTAL MEDICAL CLINIC",
         lat: 14.772462557178027,
         lng: 121.07799947565354,
         verified: false
