@@ -85,14 +85,14 @@ const LANDMARKS = [
         verified: false
     },
     {
-        id: "landmark10",
+        id: "landmark11",
         name: "dialysis center",
         lat: 14.770325,
         lng: 121.07776389,
         verified: false
     },
     {
-        id: "landmark10",
+        id: "landmark111",
         name: "De Ocampo Eatery",
         lat: 14.77013333,
         lng: 121.07778611,
