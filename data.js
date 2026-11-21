@@ -58,32 +58,46 @@ const LANDMARKS = [
     },
     {
         id: "landmark7",
-        name: "Landmark 7 - Add Coordinates",
-        lat: null,
-        lng: null,
+        name: "EMILY HOUSE",
+        lat: 14.77398267818099,
+        lng: 121.07714905148424,
         verified: false
     },
     {
         id: "landmark8",
-        name: "Landmark 8 - Add Coordinates",
-        lat: null,
-        lng: null,
+        name: " PROSTAL MEDICAL CLINIC",
+        lat: 14.772462557178027,
+        lng: 121.07799947565354,
         verified: false
     },
     {
         id: "landmark9",
-        name: "Landmark 9 - Add Coordinates",
-        lat: null,
-        lng: null,
+        name: "MARIAS PLACE APARTELLE",
+        lat: 14.772617197622786,
+        lng: 121.07776071620478,
         verified: false
     },
     {
         id: "landmark10",
-        name: "Landmark 10 - Add Coordinates",
-        lat: null,
-        lng: null,
+        name: "Ascoville Health Center",
+        lat: 14.771904195031645,
+        lng: 121.07713987552938,
         verified: false
-    }
+    },
+    {
+        id: "landmark10",
+        name: "dialysis center",
+        lat: 14.770325,
+        lng: 121.07776389,
+        verified: false
+    },
+    {
+        id: "landmark10",
+        name: "De Ocampo Eatery",
+        lat: 14.77013333,
+        lng: 121.07778611,
+        verified: false 
+    },
 ];
 
 // ==========================================
